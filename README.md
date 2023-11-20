@@ -1,8 +1,9 @@
-### COP3503 - Number Statistics Project 
+### IDC2000 - Basic Statistical Descriptions Project
 
-This Number Statistics Project was the first project of my Object Oriented Programming class at the University of North Florida. It shows an understanding of basic programming structures along with how to use methods and built-in Java classes
+This is a Python program that computes and displays statistical descriptions of a data list. There is also a boxplot of the data in a worksheet.
 
-![Zain Malik (2)](https://github.com/zain0329/COP3503-Number-Statistics/assets/66034863/04f1f488-ed04-46ca-aabb-59e93e34e8aa)
+![Zain Malik (9)](https://github.com/zain0329/Basic-Statistical-Descriptions-Project/assets/66034863/20ec3667-d631-4084-9326-12a4c9998df4)
+
 
 
 
